@@ -3,3 +3,4 @@ pypdf
 ipykernel
 langchain_text_splitters
 chromadb
+langchain-ollama
